@@ -70,11 +70,20 @@
 
 1. 分布式锁
 	>1. db
-	>2. redis
+	>2. redis  (Redission,Redlock)
 	>3. zookeeper
 	
 	总结: 优先db和redis [参考1](http://www.jianshu.com/p/c2b4aa7a12f1)
 	[参考2](http://www.hollischuang.com/archives/1716)
 	[参考3](http://rdc.gleasy.com/%E4%B8%A4%E7%A7%8D%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%881.html)
 	[参考4](http://rdc.gleasy.com/%E4%B8%A4%E7%A7%8D%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%882.html)
-2. 
+2. mysql常用函数
+3. 24小时 格式化日期 包括mysql JAVA
+4. 多线程  线程池
+5. spring事务 传播机制
+6. mysql什么时候该加索引  产品类型该不该加索引
+7. cron表达式
+8. JAVA并发锁
+9. theadlocal
+10. 分布式事务场景
+	>[参考](http://www.roncoo.com/article/detail/124243)
