@@ -25,7 +25,7 @@
 	>3. 频繁查询的字段加索引
 7. 高并发解决方案:
 	>1. 缓存
-	>2. 
+	>2. 队列
 8. 高可用解决方案:
 	>1. 负载均衡:lvs+keepalived+nginx
 
@@ -65,3 +65,16 @@
 13. json web token和simple web token?
 14. CAP 理论?
 	>一致性,可用性,分区容错
+
+##第二天
+
+1. 分布式锁
+	>1. db
+	>2. redis
+	>3. zookeeper
+	
+	总结: 优先db和redis [参考1](http://www.jianshu.com/p/c2b4aa7a12f1)
+	[参考2](http://www.hollischuang.com/archives/1716)
+	[参考3](http://rdc.gleasy.com/%E4%B8%A4%E7%A7%8D%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%881.html)
+	[参考4](http://rdc.gleasy.com/%E4%B8%A4%E7%A7%8D%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%882.html)
+2. 
