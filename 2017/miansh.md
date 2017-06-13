@@ -87,3 +87,13 @@
 9. theadlocal
 10. 分布式事务场景
 	>[参考](http://www.roncoo.com/article/detail/124243)
+
+## 第三次
+
+1. JAVA死锁和避免死锁
+2. session 共享
+3. http  TCP协议 三次握手 三次伸手
+4. 设计模式
+5. 单例模式  多线程环境下怎么保证安全
+6. IO 阻塞 非阻塞
+7. Spring 生命周期
