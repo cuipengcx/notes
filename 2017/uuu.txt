@@ -59,6 +59,26 @@ http://git.oschina.net/SYDeament/88ybg | SYDeament/88ybg - 码云 - 开源中国
 https://github.com/judasn/Linux-Tutorial | GitHub - judasn/Linux-Tutorial: 《Java 程序员眼中的 Linux》
 
 
+https://www.google.com.hk/webhp?hl=zh-CN&sa=X&ved=0ahUKEwid2uC3tYrUAhVCppQKHfuICTcQPAgD#newwindow=1&safe=strict&hl=zh-CN&q=jwt%E6%95%99%E7%A8%8B | jwt教程 - Google 搜索
+https://github.com/smilingsun/blog/issues/1 | 适用于前后端分离的下一代认证机制 —— JSON Web Token（译） · Issue #1 · smilingsun/blog · GitHub
+http://be.findeen.com/%E4%BB%A4%E7%89%8C%E9%AA%8C%E8%AF%81.html | 令牌验证
+http://blog.zhishile.com/Article/Show/90e3cb1f-bbe5-4dbc-97f2-7ce7c8e83593 | JSON Web Token (JWT)详解 - 乐博客
+https://juejin.im/entry/577b7b56a3413100618c2938 | JSON Web Tokens (JWT) 与 Sessions - 前端 - 掘金
+https://segmentfault.com/a/1190000008481722 | HTTP验证大法(Basic Auth,Session, JWT, Oauth, Openid) - mrcode的文章 - SegmentFault
+http://www.jianshu.com/p/66584617058e | 登录工程：现代Web应用中的身份验证技术 - 简书
+http://island205.github.io/Single-Page-App-Break/ | Introduction | 单页应用开发权威指南
+https://github.com/top-think/think/issues/597 | ajax同一页面多次调用使用token令牌的解决方案 · Issue #597 · top-think/think · GitHub
+
+
+
+
+2.食恪生鲜  先不加 mycat  zookeeper Dubbo
+负载均衡使用Nginx、keepalived实现高可用
+使用LVS+Nginx实现系统的负载均衡
+
+在分布式事务上则采用了TCC解决订单支付方面时效性要求性高的分布式事务,可靠的消息服务则来解决如会计记录等时效性要求低的分布式事务
+
+
 
 
 https://my.oschina.net/jwdstef/blog/504846 | 搭建FastDFS-5.0.5集群 - jwdstef的个人空间
