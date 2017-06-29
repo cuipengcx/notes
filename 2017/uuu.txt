@@ -1,0 +1,77 @@
+springboot cloud博文
+mysql 主从复制搭建
+
+spring for all社区⑤资料下载
+
+http://www.tuicool.com/articles/UR7v6jQ
+
+
+1. http.conf和mime.types文件是否必须移动到/etc/fdfs目录下
+2.ln  -s  /opt/fastdfs_storage_data/data  /opt/fastdfs_storage_data/data/M00 这个的作用?
+3. 开机启动不好使？
+
+
+yml文件  exclusions: *.js,*.gif,*.jpg,*.png,*.css,*.ico,/druid/*  如何拼写这个？
+
+spring boot 如何写公共的跳转?
+
+
+http://www.jianshu.com/p/99fcead32d35?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq | 一个基于Spring Boot的API、RESTful API项目种子（骨架） - 简书
+http://alexpdh.com/2017/06/26/springMVC-restful-api/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io | 基于 springMVC 的 RESTful HTTP API 实践（服务端） | alexpdh's blog
+https://mp.weixin.qq.com/s?__biz=MzI3OTUwMjM4MA==&mid=2247483765&idx=1&sn=19af59e266c46f5654a669c410b036dd&chksm=eb478a36dc30032089c79607b2479c85cec5f78d94526475b716dd5c79616fc560d17c3a7b5c#rd | 如何做系统重构
+https://mp.weixin.qq.com/s?__biz=MzI3OTUwMjM4MA==&mid=2247483756&idx=1&sn=7bda8ca7926977b12d4b8fd94cc72220&chksm=eb478a2fdc30033958dc7de381c0214c1d8073e707a287d75789fba73b2dcf046dff4c68c569#rd | 如何做高可用的架构设计
+https://mp.weixin.qq.com/s?__biz=MzIzMzE4NTk3OA==&mid=2651257331&idx=1&sn=c4b23b9fb60489588f00ef4ead0b13e9&chksm=f37b2e26c40ca730a94f736be01f92c1286b7f22d2c5d6ebf835b8a61109d42557b1a7eba5c0&mpshare=1&scene=23&srcid=0628eK952wcGyG3gXPlwDGS3#rd | 最良心的软件可以良心到什么程度？
+https://mp.weixin.qq.com/s?__biz=MzIzMzE4NTk3OA==&mid=2651257264&idx=1&sn=580003f885009d74c10a0b12c363b3f5&chksm=f37b2e65c40ca773f27b9d0ec72fa306f5150498fe0b259f6eadd16cea7e6829cc06e25fc937&mpshare=1&scene=23&srcid=0628Ea6OrQXfRUR1Uq7v70fF#rd | 6 款效率工具已送达，请注意查收
+
+
+https://github.com/judasn/Linux-Tutorial | GitHub - judasn/Linux-Tutorial: 《Java 程序员眼中的 Linux》
+http://www.jianshu.com/p/923d26d705ed | Spring Boot（5）一个极简且完整的后台框架 - 简书
+
+
+
+
+https://www.google.com.hk/webhp?hl=zh-CN&sa=X&ved=0ahUKEwiEuPj81eLUAhWDvbwKHUY1Ds0QPAgD | Google
+http://www.jianshu.com/u/a9b2d43bb94e | 小程故事多 - 简书
+http://www.jianshu.com/p/2cf43d3c6eff | JVM垃圾回收全景图 - 简书
+http://www.jianshu.com/p/a79a0f4330e5 | 缓存系列文章--热点key问题 - 简书
+http://www.jianshu.com/p/217ad06215bf | Faas，又一个未来？ - 简书
+http://www.jianshu.com/p/07dbf69c5957 | 由学习《软件设计重构》所想到的代码review（一） - 简书
+http://www.jianshu.com/p/898bd5601b1f | 由学习《软件设计重构》所想到的代码review（二） - 简书
+http://www.jianshu.com/p/7a7127a11c69 | 关于分布式调度框架的一些优秀资源总结 - 简书
+http://www.jianshu.com/p/f16e404af002 | 缓存穿透、缓存并发、热点缓存之最佳招式 - 简书
+http://www.jianshu.com/p/d96906140199 | 缓存穿透、缓存并发、缓存失效之思路变迁 - 简书
+http://www.jianshu.com/p/c128ed5c394e | 小程聊微服务-基于dubbo的mock测试系统 - 简书
+http://www.jianshu.com/p/d8568e5f3f1c | 关于缓存和数据库强一致的可行方案 - 简书
+http://www.jianshu.com/p/64b0df87e51b | 集中式内存缓存Guava Cache - 简书
+
+http://www.jianshu.com/p/923d26d705ed | Spring Boot（5）一个极简且完整的后台框架 - 简书
+http://www.imooc.com/article/2760 | SpringMVC 实现文件下载_慕课手记
+https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140842 | 微信公众平台
+
+https://git.oschina.net/geek_qi/ace-cache | geek_qi/ace-cache - 码云 - 开源中国
+https://git.oschina.net/geek_qi/ace-security | geek_qi/ace-security - 码云 - 开源中国
+http://www.jianshu.com/p/99fcead32d35?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq | 一个基于Spring Boot的API、RESTful API项目种子（骨架） - 简书
+http://www.jianshu.com/u/335a31051c58 | 简单的土豆 - 简书
+http://blog.springcloud.cn/sc/sc-feign-hystrix/ | 探讨通过Feign配合Hystrix进行调用时异常的处理 | Spring Cloud中国社区博客
+http://blog.springcloud.cn/sc/sc-w-jwt/ | JWT在Spring Cloud中的使用 | Spring Cloud中国社区博客
+http://git.oschina.net/SYDeament/88ybg | SYDeament/88ybg - 码云 - 开源中国
+
+https://github.com/judasn/Linux-Tutorial | GitHub - judasn/Linux-Tutorial: 《Java 程序员眼中的 Linux》
+
+
+
+
+https://my.oschina.net/jwdstef/blog/504846 | 搭建FastDFS-5.0.5集群 - jwdstef的个人空间
+http://www.cnblogs.com/helloliyj/p/6817487.html | CentOS6.5环境搭建分布式存储FastDFS-5.0.5集群详细过程 - 删库不跑路 - 博客园
+http://www.cnblogs.com/tjc1996/p/6610005.html | FastDFS + nginx 整合 - 睡歪了脖子 - 博客园
+https://segmentfault.com/a/1190000008674582 | FastDFS集群版搭建 - 过世秋风 - SegmentFault
+http://blog.csdn.net/u012453843/article/details/69951920 | 搭建单机版的FastDFS服务器 - u012453843的专栏 - 博客频道 - CSDN.NET
+https://muyinchen.github.io/2016/11/11/Migo%E5%95%86%E5%9F%8E%20%20%E5%9B%BE%E7%89%87%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8%20%20%E4%BA%94/ | Migo商城2.0 图片服务器的搭建与使用 五 | 一叶知秋
+http://blog.h5min.cn/robertohuang/article/details/71155371 | FastDFS分布式文件系统简介及单机版安装步骤详解 - RobertoHuang的博客 - 博客频道 - CSDN.NET
+http://www.jianshu.com/p/b56e84912825 | FastDFS 安装和配置 - 简书
+http://blog.csdn.net/wlwlwlwl015/article/details/52619851 | 分布式文件系统 FastDFS 5.0.5 & Linux CentOS 7 安装配置 - 小灯光环 - 博客频道 - CSDN.NET
+http://oldcat1981.blog.51cto.com/10670523/1766810 | 使用FastDFS搭建图片服务器单实例篇 - 老猫1981 - 51CTO技术博客
+http://www.linuxidc.com/Linux/2016-09/135537.htm | CentOS 7 安装配置分布式文件系统 FastDFS 5.0.5_服务器应用_Linux公社-Linux系统门户网站
+http://blog.csdn.net/u012453843/article/details/69951920 | 搭建单机版的FastDFS服务器 - u012453843的专栏 - 博客频道 - CSDN.NET
+https://my.oschina.net/u/1867229/blog/829572 | fastdfs + nginx 搭建分布式文件系统(单机模式) - 流萤飘枫丶
+http://www.cnblogs.com/Eivll0m/p/5378328.html | 分布式文件系统FastDFS安装与配置(单机) - K‘e0llm - 博客园
