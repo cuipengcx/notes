@@ -5,6 +5,8 @@ spring for allÉçÇø¢İ×ÊÁÏÏÂÔØ
 
 http://www.tuicool.com/articles/UR7v6jQ
 
+vue + vue-router + vue-resource + vuexÈ«¼ÒÍ°
+
 
 1. http.confºÍmime.typesÎÄ¼şÊÇ·ñ±ØĞëÒÆ¶¯µ½/etc/fdfsÄ¿Â¼ÏÂ
 2.ln  -s  /opt/fastdfs_storage_data/data  /opt/fastdfs_storage_data/data/M00 Õâ¸öµÄ×÷ÓÃ?
@@ -14,6 +16,27 @@ http://www.tuicool.com/articles/UR7v6jQ
 ymlÎÄ¼ş  exclusions: *.js,*.gif,*.jpg,*.png,*.css,*.ico,/druid/*  ÈçºÎÆ´Ğ´Õâ¸ö£¿
 
 spring boot ÈçºÎĞ´¹«¹²µÄÌø×ª?
+
+
+
+
+http://www.ha97.com/5095.html | ÏµÍ³ÍÌÍÂÁ¿£¨TPS£©¡¢ÓÃ»§²¢·¢Á¿¡¢ĞÔÄÜ²âÊÔ¸ÅÄîºÍ¹«Ê½
+https://www.zhihu.com/question/21556347 | PV¡¢TPS¡¢QPSÊÇÔõÃ´¼ÆËã³öÀ´µÄ£¿ - Öªºõ
+https://www.oschina.net/news/56104/concurrent-user-and-tps | ²¢·¢ÓÃ»§ÊıÓë TPS Ö®¼äµÄ¹ØÏµ - ¿ªÔ´ÖĞ¹úÉçÇø
+https://www.google.com.hk/webhp?hl=zh-CN&ictx=2&sa=X&ved=0ahUKEwjz-6HH6-TUAhWFTrwKHTlRAEAQPQgD#newwindow=1&safe=strict&hl=zh-CN&q=Redis%E9%9B%86%E7%BE%A4+%E5%88%86%E7%89%87+%E5%93%A8%E5%85%B5%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB&btnK=Google%20%E6%90%9C%E7%B4%A2 | Redis¼¯Èº ·ÖÆ¬ ÉÚ±øÄ£Ê½µÄÇø±ğ - Google ËÑË÷
+http://www.imooc.com/article/14592 | ¾ø¶Ô¸É»õ-Redis¼¯ÈºµÄÓÅ»¯_Ä½¿ÎÊÖ¼Ç
+https://www.zhihu.com/question/21419897 | Redis¼¯Èº·½°¸Ó¦¸ÃÔõÃ´×ö£¿ - Öªºõ
+http://wiki.jikexueyuan.com/project/java-wechat/19.html | Java Î¢ĞÅ¹«ÖÚÆ½Ì¨¿ª·¢(Ê®ËÄ)¡¾·¬ÍâÆª¡¿--Î¢ĞÅ web ¿ª·¢Õß¹¤¾ßÊ¹ÓÃ - Java Î¢ĞÅ¿ª·¢ - ¼«¿ÍÑ§ÔºWiki
+http://blog.csdn.net/Ani521smile/article/details/52594625 | Î¢ĞÅÍøÒ³ÊÚÈ¨¡ª»ñÈ¡ÓÃ»§ĞÅÏ¢ - ²©¿ÍÆµµÀ - CSDN.NET
+https://github.com/taranjob/wechat-OAuth2.0 | taranjob/wechat-OAuth2.0: wechat oath2.0 Demo, ¶ÔÓ¦Î¢ĞÅ¹«ÖÚºÅ¿ª·¢ÕßÎÄµµ/ÓÃ»§¹ÜÀí/ÍøÒ³ÊÚÈ¨»ñÈ¡ÓÃ»§»ù±¾ĞÅÏ¢
+https://github.com/navyxie/wechat-develop | navyxie/wechat-develop: Î¢ĞÅ¹«ÖÚÆ½Ì¨½ÓÈëÀı×Ó
+https://github.com/ghyg525/java_wechat | ghyg525/java_wechat: Î¢ĞÅ¹«ÖÚºÅÍøÒ³ÊÚÈ¨µÈ
+https://github.com/zcgsdu/WeiXin | zcgsdu/WeiXin: Î¢ĞÅÍøÒ³ÊÚÈ¨£¬·ÖÏíµ½ÅóÓÑÈ¦
+https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140842 | Î¢ĞÅ¹«ÖÚÆ½Ì¨
+https://github.com/zconggithub/zcgithubthree | zconggithub/zcgithubthree: µÚÈı·½µÇÂ½£¬Î¢ĞÅÍøÒ³ÊÚÈ¨
+https://git.oschina.net/backControl/halo-kotlin | backControl/halo-kotlin - ÂëÔÆ - ¿ªÔ´ÖĞ¹ú
+https://git.oschina.net/uncode/uncode-cache | uncode/uncode-cache - ÂëÔÆ - ¿ªÔ´ÖĞ¹ú
+
 
 
 http://www.jianshu.com/p/99fcead32d35?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq | Ò»¸ö»ùÓÚSpring BootµÄAPI¡¢RESTful APIÏîÄ¿ÖÖ×Ó£¨¹Ç¼Ü£© - ¼òÊé
@@ -27,7 +50,7 @@ https://mp.weixin.qq.com/s?__biz=MzIzMzE4NTk3OA==&mid=2651257264&idx=1&sn=580003
 https://github.com/judasn/Linux-Tutorial | GitHub - judasn/Linux-Tutorial: ¡¶Java ³ÌĞòÔ±ÑÛÖĞµÄ Linux¡·
 http://www.jianshu.com/p/923d26d705ed | Spring Boot£¨5£©Ò»¸ö¼«¼òÇÒÍêÕûµÄºóÌ¨¿ò¼Ü - ¼òÊé
 
-
+http://www.imooc.com/article/2760
 
 
 https://www.google.com.hk/webhp?hl=zh-CN&sa=X&ved=0ahUKEwiEuPj81eLUAhWDvbwKHUY1Ds0QPAgD | Google
@@ -44,9 +67,6 @@ http://www.jianshu.com/p/c128ed5c394e | Ğ¡³ÌÁÄÎ¢·şÎñ-»ùÓÚdubboµÄmock²âÊÔÏµÍ³ - ¼
 http://www.jianshu.com/p/d8568e5f3f1c | ¹ØÓÚ»º´æºÍÊı¾İ¿âÇ¿Ò»ÖÂµÄ¿ÉĞĞ·½°¸ - ¼òÊé
 http://www.jianshu.com/p/64b0df87e51b | ¼¯ÖĞÊ½ÄÚ´æ»º´æGuava Cache - ¼òÊé
 
-http://www.jianshu.com/p/923d26d705ed | Spring Boot£¨5£©Ò»¸ö¼«¼òÇÒÍêÕûµÄºóÌ¨¿ò¼Ü - ¼òÊé
-http://www.imooc.com/article/2760 | SpringMVC ÊµÏÖÎÄ¼şÏÂÔØ_Ä½¿ÎÊÖ¼Ç
-https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140842 | Î¢ĞÅ¹«ÖÚÆ½Ì¨
 
 https://git.oschina.net/geek_qi/ace-cache | geek_qi/ace-cache - ÂëÔÆ - ¿ªÔ´ÖĞ¹ú
 https://git.oschina.net/geek_qi/ace-security | geek_qi/ace-security - ÂëÔÆ - ¿ªÔ´ÖĞ¹ú
