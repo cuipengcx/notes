@@ -97,21 +97,3 @@ https://github.com/top-think/think/issues/597 | ajaxÍ¬Ò»Ò³Ãæ¶à´Îµ÷ÓÃÊ¹ÓÃtokenÁîÅ
 Ê¹ÓÃLVS+NginxÊµÏÖÏµÍ³µÄ¸ºÔØ¾ùºâ
 
 ÔÚ·Ö²¼Ê½ÊÂÎñÉÏÔò²ÉÓÃÁËTCC½â¾ö¶©µ¥Ö§¸¶·½ÃæÊ±Ğ§ĞÔÒªÇóĞÔ¸ßµÄ·Ö²¼Ê½ÊÂÎñ,¿É¿¿µÄÏûÏ¢·şÎñÔòÀ´½â¾öÈç»á¼Æ¼ÇÂ¼µÈÊ±Ğ§ĞÔÒªÇóµÍµÄ·Ö²¼Ê½ÊÂÎñ
-
-
-
-
-https://my.oschina.net/jwdstef/blog/504846 | ´î½¨FastDFS-5.0.5¼¯Èº - jwdstefµÄ¸öÈË¿Õ¼ä
-http://www.cnblogs.com/helloliyj/p/6817487.html | CentOS6.5»·¾³´î½¨·Ö²¼Ê½´æ´¢FastDFS-5.0.5¼¯ÈºÏêÏ¸¹ı³Ì - É¾¿â²»ÅÜÂ· - ²©¿ÍÔ°
-http://www.cnblogs.com/tjc1996/p/6610005.html | FastDFS + nginx ÕûºÏ - Ë¯ÍáÁË²±×Ó - ²©¿ÍÔ°
-https://segmentfault.com/a/1190000008674582 | FastDFS¼¯Èº°æ´î½¨ - ¹ıÊÀÇï·ç - SegmentFault
-http://blog.csdn.net/u012453843/article/details/69951920 | ´î½¨µ¥»ú°æµÄFastDFS·şÎñÆ÷ - u012453843µÄ×¨À¸ - ²©¿ÍÆµµÀ - CSDN.NET
-https://muyinchen.github.io/2016/11/11/Migo%E5%95%86%E5%9F%8E%20%20%E5%9B%BE%E7%89%87%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8%20%20%E4%BA%94/ | MigoÉÌ³Ç2.0 Í¼Æ¬·şÎñÆ÷µÄ´î½¨ÓëÊ¹ÓÃ Îå | Ò»Ò¶ÖªÇï
-http://blog.h5min.cn/robertohuang/article/details/71155371 | FastDFS·Ö²¼Ê½ÎÄ¼şÏµÍ³¼ò½é¼°µ¥»ú°æ°²×°²½ÖèÏê½â - RobertoHuangµÄ²©¿Í - ²©¿ÍÆµµÀ - CSDN.NET
-http://www.jianshu.com/p/b56e84912825 | FastDFS °²×°ºÍÅäÖÃ - ¼òÊé
-http://blog.csdn.net/wlwlwlwl015/article/details/52619851 | ·Ö²¼Ê½ÎÄ¼şÏµÍ³ FastDFS 5.0.5 & Linux CentOS 7 °²×°ÅäÖÃ - Ğ¡µÆ¹â»· - ²©¿ÍÆµµÀ - CSDN.NET
-http://oldcat1981.blog.51cto.com/10670523/1766810 | Ê¹ÓÃFastDFS´î½¨Í¼Æ¬·şÎñÆ÷µ¥ÊµÀıÆª - ÀÏÃ¨1981 - 51CTO¼¼Êõ²©¿Í
-http://www.linuxidc.com/Linux/2016-09/135537.htm | CentOS 7 °²×°ÅäÖÃ·Ö²¼Ê½ÎÄ¼şÏµÍ³ FastDFS 5.0.5_·şÎñÆ÷Ó¦ÓÃ_Linux¹«Éç-LinuxÏµÍ³ÃÅ»§ÍøÕ¾
-http://blog.csdn.net/u012453843/article/details/69951920 | ´î½¨µ¥»ú°æµÄFastDFS·şÎñÆ÷ - u012453843µÄ×¨À¸ - ²©¿ÍÆµµÀ - CSDN.NET
-https://my.oschina.net/u/1867229/blog/829572 | fastdfs + nginx ´î½¨·Ö²¼Ê½ÎÄ¼şÏµÍ³(µ¥»úÄ£Ê½) - Á÷Ó©Æ®·ãØ¼
-http://www.cnblogs.com/Eivll0m/p/5378328.html | ·Ö²¼Ê½ÎÄ¼şÏµÍ³FastDFS°²×°ÓëÅäÖÃ(µ¥»ú) - K¡®e0llm - ²©¿ÍÔ°
